@@ -2,7 +2,8 @@
 layout: default
 # title: Chris Horn CV
 ---
-# Christopher David Horn
+
+<h1 class="cv-name">Christopher David Horn</h1>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; text-align: center; font-size: 0.95rem;">
   <div><strong>Location:</strong> London, UK (Relocating to Dubai)</div>
@@ -69,12 +70,10 @@ Engineering-minded product leader with hands-on technical skills in Python, SQL,
 
 ## Projects
 
-### DeFi Tips
-- Developed a decentralized application using React and Ethereum smart contracts.  
-- Implemented user authentication and wallet integration.  
-- Repository: [github.com/chrishorn/react-eth-dapp](https://github.com/chrishorn/react-eth-dapp)  
+### DeFi BuyMeACoffee
+- Developed an Ethereum-based BuyMeACoffee clone using Solidity and Web3.js, implementing blockchain payments and smart contract functionality. ([repo](https://github.com/23chorn/react-eth-dapp))
 
 ### Music Stats
-- Short description of what you built and tech used.  
+- Built a React + Vite music tracker with Spotify and Last.fm API integration, visualizing listening habits through interactive graphs and charts. ([repo](https://github.com/23chorn/my-music-stats)).
 
 ---
