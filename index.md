@@ -1,15 +1,16 @@
 ---
 layout: default
-title: Chris Horn CV
+# title: Chris Horn CV
 ---
 # Christopher David Horn
 
-**Location:** Currently in London, Relocating to Dubai <br>
-**Email:** 23chrish@gmail.com <br>
-**Phone:** +44 7795147804, +971 50 231 5596 <br>
-**GitHub:** [23chorn](https://github.com/23chorn/)
-**LinkedIn:** [christopher-horn-19a795151](https://www.linkedin.com/in/christopher-horn-19a795151/)
-
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; text-align: center; font-size: 0.95rem;">
+  <div><strong>Location:</strong> London, UK (Relocating to Dubai)</div>
+  <div><strong>Email:</strong> 23chrish@gmail.com</div>
+  <div><strong>Phone:</strong> +44 7795147804 / +971 50 231 5596</div>
+  <div><a href="https://github.com/23chorn/"><strong>GitHub</strong></a></div>
+  <div><a href="https://www.linkedin.com/in/christopher-horn-19a795151/"><strong>LinkedIn</strong></a></div>
+</div>
 ---
 
 ## Profile

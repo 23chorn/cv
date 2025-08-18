@@ -1,1 +1,41 @@
 @use "minima" as *;
+
+/* assets/css/main.scss */
+
+/* Optional: adjust font size for readability */
+body {
+  font-size: 1rem;
+}
+
+.page-heading {
+  display: none;
+}
+
+.site-header,
+.site-footer {
+  display: none;
+}
+
+/* Headings */
+h1, h2, h3 {
+    color: #2c3e50;
+    font-weight: bold;
+    margin-top: 1.5rem;
+}
+
+/* Links */
+a {
+    color: #007acc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Sections */
+hr {
+    border: none;
+    border-top: 2px solid #eee;
+    margin: 2rem 0;
+}
