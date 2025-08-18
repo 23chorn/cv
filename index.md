@@ -1,15 +1,18 @@
 # Chris Horn
 
-**Email:** chris@example.com  
-**Phone:** +1 234-567-890  
-**GitHub:** [github.com/chrishorn](https://github.com/chrishorn)  
-**LinkedIn:** [linkedin.com/in/chrishorn](https://linkedin.com/in/chrishorn)  
+**Email:** 23chrish@gmail.com  
+**Phone:** +447795147804
+**GitHub:** [https://github.com/23chorn/](https://github.com/23chorn/)  
+**LinkedIn:** [https://www.linkedin.com/in/christopher-horn-19a795151/](https://www.linkedin.com/in/christopher-horn-19a795151/)  
 
 ---
 
 ## Summary
-Product Manager with a passion for technology and improving technical skills. Experienced in leading cross-functional teams, managing product lifecycles, and driving growth through user-centered solutions.
-
+A hands on and data-oriented product leader with a proven track record in building high performance trading
+platforms from ideation to scaled adoption. Currently overseeing a $4B daily-volume fixed income trading
+system, with hands-on experience leading agile teams of 15+ engineers, analysts, and QA. Technically fluent in
+Python, SQL, and product analytics. Skilled in delivering institutional-grade UI/UX, managing internal tooling,
+and driving 0-to-1 product builds.
 ---
 
 ## Skills
