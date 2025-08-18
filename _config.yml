@@ -1,0 +1,6 @@
+title: Chris Horn CV
+theme: minima
+markdown: kramdown
+
+sass:
+  style: compressed
