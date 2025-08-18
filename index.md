@@ -1,9 +1,9 @@
 ---
 layout: default
-# title: Chris Horn CV
+title: Chris Horn CV
 ---
 
-<h1 class="cv-name">Christopher David Horn</h1>
+<h1 class="cv-name" style="text-align:center">Christopher David Horn</h1>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; text-align: center; font-size: 0.95rem;">
   <div><strong>Location:</strong> London, UK (Relocating to Dubai)</div>
@@ -21,8 +21,7 @@ Engineering-minded product leader with hands-on technical skills in Python, SQL,
 
 ## Experience
 
-### Senior Product Owner | MarketAxess | City of London
-*Jan 2024 – Current*
+### Senior Product Owner | MarketAxess | City of London <span style="float:right;">Jan 2024 – Current</span>
 - Led the end-to-end development of a high-touch electronic trading platform, transforming legacy phone-based workflows into a modern digital product used by 450+ high-volume traders (>$4B daily volume).  
 - Scaled the platform from MVP to full adoption, integrating 4 pricing protocols to support diverse liquidity needs and increase platform volume by 40%.  
 - Owned and executed multi-year product roadmaps, aligning strategic goals across cross-functional teams and ensuring long-term product vision delivery.  
@@ -33,16 +32,14 @@ Engineering-minded product leader with hands-on technical skills in Python, SQL,
 - Delivered weekly, quarterly, and annual product reviews and presentations to internal stakeholders.  
 - Acted as technical liaison between stakeholders and React/Java developers, translating business goals into actionable tasks and UI logic.
 
-### Product Owner | MarketAxess | City of London
-*Jan 2022 – Dec 2023*
+### Product Owner | MarketAxess | City of London <span style="float:right;">Jan 2022 – Dec 2023</span>
 - Facilitated backlog refinement sessions with the technical team to estimate effort needed for feature delivery.  
 - Prioritized and defined the feature backlog in JIRA for efficient development reference.  
 - Served as subject matter expert for product area, addressing technical and product-related inquiries.  
 - Developed automated email reports on user activity and traded volumes using Python.  
 - Utilized SQL queries to troubleshoot production issues efficiently, aiding in bug root cause identification for the development team.
 
-### Product Analyst | MarketAxess | City of London
-*Sep 2020 – Dec 2021*
+### Product Analyst | MarketAxess | City of London <span style="float:right;">Sep 2020 – Dec 2021</span>
 - Contributed to European Fixed Income & Regulatory scrum teams by refining user stories and bugs.  
 - Represented the team on feature progress and demos to stakeholders.
 

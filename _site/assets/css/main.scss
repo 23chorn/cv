@@ -2,39 +2,59 @@
 
 /* assets/css/main.scss */
 
+/* Base body styling */
 body {
-  font-size: 1rem;
+  font-size: 4rem;
 }
 
-.page-heading {
-  display: none;
-}
-
+/* Hide page heading and Minima header/footer */
+.page-heading,
 .site-header,
 .site-footer {
   display: none;
 }
 
+/* Center main content and set A4 width */
+.main-content {
+  max-width: 210mm; /* A4 width */
+  margin: 0 auto;
+  padding: 1rem; /* adjust margins for print */
+}
+
 /* Headings */
 h1, h2, h3 {
-    color: #2c3e50;
-    font-weight: bold;
-    margin-top: 1.5rem;
+  color: #2c3e50;
+  font-weight: bold;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
 }
 
 /* Links */
 a {
-    color: #007acc;
-    text-decoration: none;
+  color: #007acc;
+  text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 /* Sections */
 hr {
-    border: none;
-    border-top: 2px solid #eee;
-    margin: 2rem 0;
+  border: none;
+  border-top: 2px solid #eee;
+  margin: 2rem 0;
+}
+
+/* Print-specific styles */
+@media print {
+  body {
+    width: 210mm;
+    margin: 0;
+    font-size: 12pt;
+  }
+  .main-content {
+    max-width: 100%;
+    padding: 0;
+  }
 }
