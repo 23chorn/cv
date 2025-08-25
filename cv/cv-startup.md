@@ -15,33 +15,33 @@ title: Chris Horn CV
 </div>
 
 ## Profile
-Engineering-minded product leader with hands-on technical skills in Python, SQL, React, and analytics tooling. Proven record of scaling complex systems from 0-to-1 through adoption while also building automation, bots, and dashboards that empower teams. Comfortable prototyping alongside engineers, debugging in code, and translating business needs into usable tech. Exploring AI-assisted tooling such as Replit for rapid prototyping, with an eye toward fast experimentation in startup environments.
+Product leader with strong technical fluency, experienced in rapidly building, iterating, and scaling digital products. Works closely with engineers to design feasible solutions, guide high-level technical decisions, and review workflows. Hands-on experience creating monitoring dashboards, automation scripts, and analytics tools to support development and decision-making. Proven ability to deliver MVPs quickly, gather user feedback, and iterate efficiently. Passionate about prototyping new features using modern tools such as AI-assisted coding (Replit, Copilot) and driving end-to-end product execution in fast-moving startup environments.
 
 ---
 
 ## Experience
 
 ### <span class="cv-job-title">Senior Product Owner</span> | MarketAxess | City of London <span class="cv-job-date">Jan 2024 – Current</span>
-- Led the end-to-end development of a high-touch electronic trading platform, transforming legacy phone-based workflows into a modern digital product used by 450+ high-volume traders (> $4B daily volume).  
-- Scaled the platform from MVP to full adoption, integrating 4 pricing protocols to support diverse liquidity needs and increase platform volume by 40%.  
-- Owned and executed multi-year product roadmaps, aligning strategic goals across cross-functional teams and ensuring delivery of long-term vision in line with market trends and customer needs.  
-- Conducted live product demos with senior traders and stakeholders to capture actionable feedback and drive migration to the new platform.  
-- Collaborated with UX designers to integrate a comprehensive feature set into a compact, trader-focused UI.  
-- Designed Tableau dashboards and Python analytics tools to monitor user behavior and inform data-driven roadmap prioritization.  
-- Led a team of 15 Developers, QA professionals, and Product Owners, overseeing task assignments and progress reviews to align delivery with business requirements.  
-- Delivered weekly, quarterly, and annual product reviews to stakeholders, providing insight into current performance and future roadmap.  
-- Acted as technical liaison between stakeholders and engineering teams (React/Java), translating business goals into actionable user stories and UI logic.   
+- Led the modernization of a legacy fixed income trading platform using React, AWS, MongoDB, and Kafka, transforming workflows into a scalable digital product now used by 450+ traders (> $4B daily volume).  
+- Delivered MVP of a block-trading workflow within 3 months, enabling rapid iteration and driving a 20% increase in trading volumes in the targeted market segment.  
+- Scaled the platform from MVP to full adoption, integrating multiple pricing protocols to support diverse liquidity needs and expand overall volumes.  
+- Designed dashboards in Tableau, Datadog, and Grafana to monitor user activity and application performance, providing actionable insights for roadmap prioritization.  
+- Filled technical gaps by building Python automation scripts and creating end-to-end user test cases, improving QA coverage and accelerating testing cycles by 10%.  
+- Partnered with engineers during design sessions to validate technical approaches, balancing performance trade-offs with product goals.  
+- Conducted live product demos with senior traders and stakeholders to capture feedback and guide iteration.  
+- Led a team of 15 Developers, QA professionals, and Product Owners, ensuring delivery of features aligned with user needs and business strategy.  
 
 ### <span class="cv-job-title">Product Owner</span> | MarketAxess | City of London <span class="cv-job-date">Jan 2022 – Dec 2023</span>
-- Facilitated backlog refinement sessions with the technical team to estimate effort needed for feature delivery.  
-- Prioritized and defined the feature backlog in JIRA for efficient development reference.  
-- Served as subject matter expert for product area, addressing technical and product-related inquiries.  
-- Developed automated email reports on user activity and traded volumes using Python.  
-- Utilized SQL queries to troubleshoot production issues efficiently, aiding in bug root cause identification for the development team.
+- Defined and prioritized the feature backlog in Jira, enabling faster delivery cycles and clearer developer alignment.  
+- Used SQL to investigate production issues, reducing bug triage time and accelerating root-cause identification.  
+- Acted as subject matter expert for the product area, providing quick technical and business clarifications that unblocked developers and reduced turnaround delays.  
+- Facilitated backlog refinement and estimation sessions with engineers, ensuring trade-offs and technical constraints were factored into delivery.  
+- Partnered with stakeholders to deliver feature demos and gather iterative feedback, aligning delivery with client needs and market priorities.  
 
 ### <span class="cv-job-title">Product Analyst</span> | MarketAxess | City of London <span class="cv-job-date">Sep 2020 – Dec 2021</span>
-- Contributed to European Fixed Income & Regulatory scrum teams by refining user stories and bugs.  
-- Represented the team on feature progress and demos to stakeholders.
+- Contributed to agile teams by refining user stories and managing feature backlogs from ideation to delivery.  
+- Created test cases and conducted end-to-end testing in lieu of dedicated resources, ensuring features were robust before release.  
+- Represented the team on progress and feature demos to stakeholders, closing feedback loops quickly to enable iterative improvements.  
 
 ---
 
@@ -49,7 +49,7 @@ Engineering-minded product leader with hands-on technical skills in Python, SQL,
 ## Education & Certifications
 
 - **Chemical Engineering**, University of Manchester – 1st Class (Sep 2017 – Sep 2020)  
-- **A-Levels** (Maths, Biology & Chemistry), Northampton College – A*, A*, A (Sep 2015 – Sep 2017)  
+- **A-Levels** (Maths, Biology & Chemistry), Northampton College – A\*, A\*, A (Sep 2015 – Sep 2017)  
 - **BTEC in Information Technology**, Northampton College – Merit (2014) 
 
 - **SAFe 5 Product Owner & Product Manager** (2023)  
@@ -59,18 +59,20 @@ Engineering-minded product leader with hands-on technical skills in Python, SQL,
 ---
 
 ## Skills
-- **Product Management:** Roadmaps, Feature Prioritization, Agile, Stakeholder Communication  
-- **Technical Skills:** React (with Vite), Tailwind CSS, Node.js, REST APIs (Spotify, OpenAI), Python, SQL, Git, JavaScript, basic blockchain development  
-- **Tools:** Vercel, Render, Jira, Figma, Notion, GitHub, Slack
+- **Product Management**: Roadmaps, Feature Prioritization, Agile, Stakeholder Communication, MVP Scoping, Rapid Iteration  
+- **Technical Skills**: React (with Vite), Tailwind CSS, Node.js, REST APIs (Spotify, OpenAI), Python, SQL, Git, JavaScript, MongoDB, AWS, Kafka  
+- **Tools & Deployment**: Vercel, Render, Datadog, Grafana, Tableau, Jira, Figma, Notion, Slack  
+- **Analytical & Problem Solving**: Data Analysis, End-to-End Testing, Automation, A/B Testing, Critical Thinking, Rapid Prototyping  
 
 ---
 
 ## Projects
 
 ### Music Stats
-- Built a full-stack personal-use app integrating Spotify, Last.fm, and OpenAI APIs to aggregate and analyze music data.  
-- Implemented a React (Vite) frontend styled with Tailwind CSS, Node.js backend, and database integration.  
-- Deployed production-ready builds to Vercel (frontend) and Render (backend), simulating real-world cloud environments.  
-- Applied product thinking by scoping an MVP and designing a clean, usable UI. ([repo](https://github.com/23chorn/my-music-stats))
+- Designed and built a full-stack app from scratch to experiment with integrating external APIs (Spotify, Last.fm, OpenAI) for personalized music analytics.  
+- Developed a React (Vite) frontend with Tailwind CSS and a Node.js backend, with database integration for persistent user data.  
+- Deployed to Vercel (frontend) and Render (backend), gaining hands-on experience with cloud-based CI/CD and production workflows.  
+- Scoped and shipped an MVP quickly, iterating on features and UI design based on real-world usability.  
+- Demonstrated ability to move from concept → prototype → live deployment independently, simulating the speed and ownership required in a startup environment.
 
 ---

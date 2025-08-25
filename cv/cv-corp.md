@@ -52,7 +52,7 @@ A hands-on and data-oriented product leader with a proven track record in buildi
 ## Education & Certifications
 
 - **Chemical Engineering**, University of Manchester – 1st Class (Sep 2017 – Sep 2020)  
-- **A-Levels** (Maths, Biology & Chemistry), Northampton College – A*, A*, A (Sep 2015 – Sep 2017)  
+- **A-Levels** (Maths, Biology & Chemistry), Northampton College – A\*, A\*, A (Sep 2015 – Sep 2017)  
 - **BTEC in Information Technology**, Northampton College – Merit (2014) 
 
 - **SAFe 5 Product Owner & Product Manager** (2023)  
