@@ -1,5 +1,3 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.4"
-gem "webrick"
-gem "minima"
+gem "github-pages", group: :jekyll_plugins
