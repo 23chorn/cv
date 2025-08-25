@@ -14,12 +14,12 @@ title: Chris Horn CV
   </div>
 </div>
 
-## Profile
+<h2 class="cv-section-header">Profile</h2>
 Engineering-minded product leader with hands-on technical skills in Python, SQL, React, and analytics tooling. Proven record of scaling complex systems from 0-to-1 through adoption while also building automation, bots, and dashboards that empower teams. Comfortable prototyping alongside engineers, debugging in code, and translating business needs into usable tech. Exploring AI-assisted tooling such as Replit for rapid prototyping, with an eye toward fast experimentation in startup environments.
 
 ---
 
-## Experience
+<h2 class="cv-section-header">Experience</h2>
 
 ### <span class="cv-job-title">Senior Product Owner</span> | MarketAxess | London <span class="cv-job-date">Jan 2024 – Current</span>
 - Led the end-to-end development of a high-touch electronic trading platform, transforming legacy phone-based workflows into a modern digital product used by 450+ high-volume traders (> $4B daily volume).  
@@ -45,7 +45,7 @@ Engineering-minded product leader with hands-on technical skills in Python, SQL,
 
 ---
 
-## Education & Certifications
+<h2 class="cv-section-header">Education & Certifications</h2>
 
 - **Chemical Engineering**, University of Manchester – 1st Class (Sep 2017 – Sep 2020)  
 - **A-Levels** (Maths, Biology & Chemistry), Northampton College – A\*, A\*, A (Sep 2015 – Sep 2017)  
@@ -57,14 +57,14 @@ Engineering-minded product leader with hands-on technical skills in Python, SQL,
 
 ---
 
-## Skills
+<h2 class="cv-section-header">Skills</h2>
 - **Product Management:** Roadmaps, Feature Prioritization, Agile, Stakeholder Communication  
 - **Technical Skills:** React (with Vite), Tailwind CSS, Node.js, REST APIs (Spotify, OpenAI), Python, SQL, Git, JavaScript, basic blockchain development  
 - **Tools:** Vercel, Render, Jira, Figma, Notion, GitHub, Slack
 
 ---
 
-## Projects
+<h2 class="cv-section-header">Projects</h2>
 
 ### Music Stats
 - Built a full-stack personal-use app integrating Spotify, Last.fm, and OpenAI APIs to aggregate and analyze music data.  

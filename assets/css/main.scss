@@ -13,6 +13,9 @@
   .cv-project, .cv-education, .cv-skills {
     page-break-inside: avoid;
   }
+}
+
+@media print {
   body {
     width: 210mm;
     margin: 0;
@@ -23,6 +26,7 @@
     padding: 0;
   }
 }
+
 
 /* CV Name Heading */
 .cv-name {
@@ -59,6 +63,16 @@
 }
 .cv-job-date {
   float: right;
+}
+
+/* Section Headers */
+.cv-section-header {
+  font-size: 1.35rem;
+  color: #000000;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+  margin-top: 1rem;
+  padding-bottom: 0.15rem;
 }
 
 /* Base body styling */
@@ -100,6 +114,12 @@ a:hover {
 }
 
 @media (max-width: 600px) {
+  .cv-job-date {
+    float: none;
+    display: block;
+    text-align: left;
+    margin-top: 0.2rem;
+  }
   body {
     font-size: 1.1rem;
     padding: 0.5rem;
@@ -117,6 +137,14 @@ a:hover {
     gap: 0.5rem;
     font-size: 1rem;
     padding: 0 0.5rem;
+    width: 100%;
+    align-items: stretch;
+  }
+  .cv-contact-row > div {
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    margin-bottom: 0.3rem;
   }
   h2, h3 {
     font-size: 1.1rem;
