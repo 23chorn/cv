@@ -60,7 +60,7 @@ Engineering-minded product leader with hands-on technical skills in Python, SQL,
 
 ## Skills
 - **Product Management:** Roadmaps, Feature Prioritization, Agile, Stakeholder Communication  
-- **Technical Skills:** React (with Vite), Tailwind CSS, Node.js, REST APIs (Spotify, Last.fm, OpenAI), Python, SQL, Git, JavaScript, basic blockchain development  
+- **Technical Skills:** React (with Vite), Tailwind CSS, Node.js, REST APIs (Spotify, OpenAI), Python, SQL, Git, JavaScript, basic blockchain development  
 - **Tools:** Vercel, Render, Jira, Figma, Notion, GitHub, Slack
 
 ---
@@ -68,9 +68,9 @@ Engineering-minded product leader with hands-on technical skills in Python, SQL,
 ## Projects
 
 ### Music Stats
-- Built a full-stack personal-use app integrating **Spotify, Last.fm, and OpenAI APIs** to aggregate and analyze music data.  
-- Implemented a **React (Vite) frontend styled with Tailwind CSS**, **Node.js backend**, and **database integration**.  
-- Deployed production-ready builds to **Vercel (frontend)** and **Render (backend)**, simulating real-world cloud environments.  
+- Built a full-stack personal-use app integrating Spotify, Last.fm, and OpenAI APIs to aggregate and analyze music data.  
+- Implemented a React (Vite) frontend styled with Tailwind CSS, Node.js backend, and database integration.  
+- Deployed production-ready builds to Vercel (frontend) and Render (backend), simulating real-world cloud environments.  
 - Applied product thinking by scoping an MVP and designing a clean, usable UI. ([repo](https://github.com/23chorn/my-music-stats))
 
 ---
