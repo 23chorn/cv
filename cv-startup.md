@@ -66,10 +66,10 @@ Engineering-minded product leader with hands-on technical skills in Python, SQL,
 
 <h2 class="cv-section-header">Projects</h2>
 
-### Music Stats
+### Music Stat Dashboard
 - Built a full-stack personal-use app integrating Spotify, Last.fm, and OpenAI APIs to aggregate and analyze music data.  
 - Implemented a React (Vite) frontend styled with Tailwind CSS, Node.js backend, and database integration.  
 - Deployed production-ready builds to Vercel (frontend) and Render (backend), simulating real-world cloud environments.  
-- Applied product thinking by scoping an MVP and designing a clean, usable UI. ([repo](https://github.com/23chorn/my-music-stats))
+- Applied product thinking by scoping an MVP and designing a clean, usable UI. ([repo](https://github.com/23chorn/my-music-dashboard))
 
 ---
