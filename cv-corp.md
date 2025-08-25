@@ -21,7 +21,7 @@ A hands-on and data-oriented product leader with a proven track record in buildi
 
 ## Employment History
 
-### <span class="cv-job-title">Senior Product Owner</span> | MarketAxess | City of London <span class="cv-job-date">Jan 2024 – Current</span>
+### <span class="cv-job-title">Senior Product Owner</span> | MarketAxess | London <span class="cv-job-date">Jan 2024 – Current</span>
 - Led the end-to-end development of a high-touch electronic trading platform, transforming legacy phone-based workflows into a modern digital product used by 450+ high-volume traders (> $4B daily volume).  
 - Scaled the platform from MVP to full adoption, integrating 4 pricing protocols to support diverse liquidity needs and increase platform volume by 40%.  
 - Owned and executed multi-year product roadmaps, aligning strategic goals across cross-functional teams and ensuring long-term product vision was delivered in line with market trends and customer needs.  
@@ -32,14 +32,14 @@ A hands-on and data-oriented product leader with a proven track record in buildi
 - Delivered weekly, quarterly, and annual product reviews and presentations to internal stakeholders, offering comprehensive insights into current performance and future development forecasts.  
 - Acted as technical liaison between stakeholders and React/Java developers, translating business goals into actionable tasks and UI logic.  
 
-### <span class="cv-job-title">Product Owner</span> | MarketAxess | City of London <span class="cv-job-date">Jan 2022 – Dec 2023</span>
+### <span class="cv-job-title">Product Owner</span> | MarketAxess | London <span class="cv-job-date">Jan 2022 – Dec 2023</span>
 - Facilitated backlog refinement sessions with the technical team to estimate effort needed for feature delivery.  
 - Prioritized and defined the feature backlog in JIRA for efficient development reference.  
 - Served as subject matter expert for product area, addressing technical and product-related inquiries.  
 - Developed automated email reports on user activity and traded volumes using Python.  
 - Utilized SQL queries to troubleshoot production issues efficiently, aiding in bug root cause identification for the development team.  
 
-### <span class="cv-job-title">Product Analyst</span> | MarketAxess | City of London <span class="cv-job-date">Sep 2020 – Dec 2021</span>
+### <span class="cv-job-title">Product Analyst</span> | MarketAxess | London <span class="cv-job-date">Sep 2020 – Dec 2021</span>
 - Contributed to European Fixed Income & Regulatory scrum teams by refining user stories and bugs.  
 - Managed features in the product backlog from ideation to delivery.  
 - Represented the team on feature progress and demos to stakeholders.  
