@@ -6,9 +6,9 @@ title: Chris Horn CV
 <h1 class="cv-name">Christopher David Horn</h1>
 <div class="cv-contact">
   <div class="cv-contact-row">
-  <div><strong>Location:</strong> London, UK (Relocating to Dubai)</div>
+  <div><strong>Location:</strong> London, UK (Relocating to UAE)</div>
   <div><strong>Email:</strong> 23chrish@gmail.com</div>
-  <div><strong>Phone:</strong> +44 7795147804 / +971 50 231 5596</div>
+  <div><strong>Phone:</strong> +44 7795147804 / +971 50 232 5596</div>
   <div><a href="https://github.com/23chorn/" class="cv-link"><strong>GitHub</strong></a></div>
   <div><a href="https://www.linkedin.com/in/christopher-horn-19a795151/" class="cv-link"><strong>LinkedIn</strong></a></div>
   </div>
@@ -22,15 +22,14 @@ Engineering-minded product leader with hands-on technical skills in Python, SQL,
 <h2 class="cv-section-header">Experience</h2>
 
 ### <span class="cv-job-title">Senior Product Owner</span> | MarketAxess | London <span class="cv-job-date">Jan 2024 – Current</span>
-- Led the end-to-end development of a high-touch electronic trading platform, transforming legacy phone-based workflows into a modern digital product used by 450+ high-volume traders (> $4B daily volume).  
-- Scaled the platform from MVP to full adoption, integrating 4 pricing protocols to support diverse liquidity needs and increase platform volume by 40%.  
-- Owned and executed multi-year product roadmaps, aligning strategic goals across cross-functional teams and ensuring delivery of long-term vision in line with market trends and customer needs.  
-- Conducted live product demos with senior traders and stakeholders to capture actionable feedback and drive migration to the new platform.  
-- Collaborated with UX designers to integrate a comprehensive feature set into a compact, trader-focused UI.  
-- Designed Tableau dashboards and Python analytics tools to monitor user behavior and inform data-driven roadmap prioritization.  
-- Led a team of 15 Developers, QA professionals, and Product Owners, overseeing task assignments and progress reviews to align delivery with business requirements.  
-- Delivered weekly, quarterly, and annual product reviews to stakeholders, providing insight into current performance and future roadmap.  
-- Acted as technical liaison between stakeholders and engineering teams (React/Java), translating business goals into actionable user stories and UI logic.   
+- Led the modernization of a legacy fixed income trading platform using React, AWS, MongoDB, and Kafka, transforming workflows into a scalable digital product now used by 450+ traders (> $4B daily volume).  
+- Delivered MVP of a block-trading workflow within 3 months, enabling rapid iteration and driving a 20% increase in trading volumes in the targeted market segment.  
+- Scaled the platform from MVP to full adoption, integrating multiple pricing protocols to support diverse liquidity needs and expand overall volumes.  
+- Designed dashboards in Tableau, Datadog, and Grafana to monitor user activity and application performance, providing actionable insights for roadmap prioritization.  
+- Filled technical gaps by building Python automation scripts and creating end-to-end user test cases, improving QA coverage and accelerating testing cycles by 10%.  
+- Partnered with engineers during design sessions to validate technical approaches, balancing performance trade-offs with product goals.  
+- Conducted live product demos with senior traders and stakeholders to capture feedback and guide iteration.  
+- Led a team of 15 Developers, QA professionals, and Product Owners, ensuring delivery of features aligned with user needs and business strategy.  
 
 ### <span class="cv-job-title">Product Owner</span> | MarketAxess | London <span class="cv-job-date">Jan 2022 – Dec 2023</span>
 - Facilitated backlog refinement sessions with the technical team to estimate effort needed for feature delivery.  
@@ -67,7 +66,7 @@ Engineering-minded product leader with hands-on technical skills in Python, SQL,
 <h2 class="cv-section-header">Projects</h2>
 
 ### Music Stat Dashboard
-- Built a full-stack personal-use app integrating Spotify, Last.fm, and OpenAI APIs to aggregate and analyze music data.  
+- Built a full-stack personal-use app integrating Spotify, and OpenAI APIs to aggregate and analyze music data.  
 - Implemented a React (Vite) frontend styled with Tailwind CSS, Node.js backend, and database integration.  
 - Deployed production-ready builds to Vercel (frontend) and Render (backend), simulating real-world cloud environments.  
 - Applied product thinking by scoping an MVP and designing a clean, usable UI. ([repo](https://github.com/23chorn/my-music-dashboard))

@@ -6,31 +6,29 @@ title: Chris Horn CV
 <h1 class="cv-name">Christopher David Horn</h1>
 <div class="cv-contact">
   <div class="cv-contact-row">
-    <div><strong>Location:</strong> London, United Kingdom (Willing to relocate to Dubai)</div>
+    <div><strong>Location:</strong> London, UK (Relocating to UAE)</div>
     <div><strong>Email:</strong> 23chrish@gmail.com</div>
-    <div><strong>Phone:</strong> +44 7795147804</div>
-    <div><a href="https://github.com/23chorn/" class="cv-link"><strong>GitHub</strong></a></div>
+    <div><strong>Phone:</strong> +44 7795147804 / +971 50 232 5596</div>
     <div><a href="https://www.linkedin.com/in/christopher-horn-19a795151/" class="cv-link"><strong>LinkedIn</strong></a></div>
   </div>
 </div>
 
-## Profile
-A hands-on and data-oriented product leader with a proven track record in building high-performance trading platforms from ideation to scaled adoption. Currently overseeing a $4B daily-volume fixed income trading system, with hands-on experience leading agile teams of 15+ engineers, analysts, and QA. Technically fluent in Python, SQL, and product analytics. Skilled in delivering institutional-grade UI/UX, managing internal tooling, and driving 0-to-1 product builds.
+<h2 class="cv-section-header">Profile</h2>
+A strategic and data-driven Product Owner with extensive experience leading high-performance trading platforms from ideation to scaled adoption. Currently overseeing a $4B daily-volume fixed income trading system, managing cross-functional teams of 15+ engineers, analysts, and QA. Skilled at translating complex business challenges into actionable product strategies, aligning stakeholders, and delivering measurable outcomes. Technically fluent in Python, SQL, and product analytics, with a strong focus on data-driven decision-making and enterprise-grade UI/UX delivery.
 
 ---
 
-## Employment History
+<h2 class="cv-section-header">Experience</h2>
 
 ### <span class="cv-job-title">Senior Product Owner</span> | MarketAxess | London <span class="cv-job-date">Jan 2024 – Current</span>
-- Led the end-to-end development of a high-touch electronic trading platform, transforming legacy phone-based workflows into a modern digital product used by 450+ high-volume traders (> $4B daily volume).  
-- Scaled the platform from MVP to full adoption, integrating 4 pricing protocols to support diverse liquidity needs and increase platform volume by 40%.  
-- Owned and executed multi-year product roadmaps, aligning strategic goals across cross-functional teams and ensuring long-term product vision was delivered in line with market trends and customer needs.  
-- Conducted live product demos to senior traders and stakeholders to gather actionable feedback and encourage migration to an improved platform.  
-- Collaborated closely with UX designers to effectively integrate a comprehensive feature set into a compact screen space.  
-- Designed and implemented Tableau dashboards and Python-based analytics tools to monitor user behavior and inform roadmap prioritization.  
-- Led and managed a team of 15 Developers, QA professionals, and Product Owners, overseeing task assignments and progress reviews aligned with product and business requirements.  
-- Delivered weekly, quarterly, and annual product reviews and presentations to internal stakeholders, offering comprehensive insights into current performance and future development forecasts.  
-- Acted as technical liaison between stakeholders and React/Java developers, translating business goals into actionable tasks and UI logic.  
+- Modernized a legacy electronic trading platform into a scalable digital product used by 450+ traders, enabling oversight of $4B daily-volume activity.  
+- Delivered an MVP of a block-trading workflow in 3 months, informing strategic decisions and driving a 20% increase in trading volumes within the targeted segment.  
+- Defined long-term strategy for expansion into new trading segments, aligning business priorities with technical delivery to ensure sustainable growth.  
+- Partnered with senior leadership and external stakeholders to prioritize initiatives, influence roadmap direction, and secure adoption across multiple business lines.  
+- Led multiple cross-functional teams of engineers, analysts, and QA, overseeing delivery, task prioritization, and alignment with business objectives.  
+- Designed dashboards and analytics tools (Tableau, Python) to monitor adoption, measure impact, and inform ongoing roadmap decisions.  
+- Translated complex business and trading workflow challenges into actionable requirements, enabling high-impact technical solutions.  
+- Conducted stakeholder presentations and reviews at weekly, quarterly, and annual intervals, providing comprehensive insights into product performance and future strategy.
 
 ### <span class="cv-job-title">Product Owner</span> | MarketAxess | London <span class="cv-job-date">Jan 2022 – Dec 2023</span>
 - Facilitated backlog refinement sessions with the technical team to estimate effort needed for feature delivery.  
@@ -46,7 +44,7 @@ A hands-on and data-oriented product leader with a proven track record in buildi
 
 ---
 
-## Education & Certifications
+<h2 class="cv-section-header">Education & Certifications</h2>
 
 - **Chemical Engineering**, University of Manchester – 1st Class (Sep 2017 – Sep 2020)  
 - **A-Levels** (Maths, Biology & Chemistry), Northampton College – A\*, A\*, A (Sep 2015 – Sep 2017)  
@@ -58,9 +56,11 @@ A hands-on and data-oriented product leader with a proven track record in buildi
 
 ---
 
-## Skills
-- **Product Management:** Roadmaps, Feature Prioritization, Agile, Stakeholder Communication  
-- **Technical Skills:** React (with Vite), Tailwind CSS, Node.js, REST APIs (Spotify, OpenAI), Python, SQL, Git, JavaScript, basic blockchain development  
-- **Tools:** Vercel, Render, Jira, Figma, Notion, GitHub, Slack
+<h2 class="cv-section-header">Skills</h2>
+
+- **Product Management:** Product Strategy, Roadmapping, Feature Prioritization, Agile Delivery, Stakeholder Alignment  
+- **Business & Analytics:** Market Analysis, Data-Driven Decision Making, KPI Definition, A/B Testing, Product Analytics (Tableau, Grafana, Datadog)  
+- **Technical Fluency:** Python, SQL, APIs, Cloud Platforms (AWS), Technical Documentation, System Design Collaboration  
+- **Tools & Collaboration:** Jira, Confluence, Figma, Notion, Tableau, GitHub, Slack
 
 ---
