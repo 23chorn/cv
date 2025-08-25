@@ -21,7 +21,7 @@ Engineering-minded product leader with hands-on technical skills in Python, SQL,
 
 <h2 class="cv-section-header">Experience</h2>
 
-### <span class="cv-job-title">Senior Product Owner</span> | MarketAxess | London <span class="cv-job-date">Jan 2024 – Current</span>
+### <span class="cv-job-title">Senior Product Owner</span> <span class="cv-job-location">| MarketAxess | London</span> <span class="cv-job-date">Jan 2024 – Current</span>
 - Led the modernization of a legacy fixed income trading platform using React, AWS, MongoDB, and Kafka, transforming workflows into a scalable digital product now used by 450+ traders (> $4B daily volume).  
 - Delivered MVP of a block-trading workflow within 3 months, enabling rapid iteration and driving a 20% increase in trading volumes in the targeted market segment.  
 - Scaled the platform from MVP to full adoption, integrating multiple pricing protocols to support diverse liquidity needs and expand overall volumes.  
@@ -31,7 +31,7 @@ Engineering-minded product leader with hands-on technical skills in Python, SQL,
 - Conducted live product demos with senior traders and stakeholders to capture feedback and guide iteration.  
 - Led a team of 15 Developers, QA professionals, and Product Owners, ensuring delivery of features aligned with user needs and business strategy.  
 
-### <span class="cv-job-title">Product Owner</span> | MarketAxess | London <span class="cv-job-date">Jan 2022 – Dec 2023</span>
+### <span class="cv-job-title">Product Owner</span> <span class="cv-job-location">| MarketAxess | London</span> <span class="cv-job-date">Jan 2022 – Dec 2023</span>
 - Facilitated backlog refinement sessions with the technical team to estimate effort needed for feature delivery.  
 - Prioritized and defined the feature backlog in JIRA for efficient development reference.  
 - Served as subject matter expert for product area, addressing technical and product-related inquiries.  

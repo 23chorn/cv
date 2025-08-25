@@ -20,7 +20,7 @@ A strategic and data-driven Product Owner with extensive experience leading high
 
 <h2 class="cv-section-header">Experience</h2>
 
-### <span class="cv-job-title">Senior Product Owner</span> | MarketAxess | London <span class="cv-job-date">Jan 2024 – Current</span>
+### <span class="cv-job-title">Senior Product Owner</span> <span class="cv-job-location">| MarketAxess | London</span> <span class="cv-job-date">Jan 2024 – Current</span>
 - Modernized a legacy electronic trading platform into a scalable digital product used by 450+ traders, enabling oversight of $4B daily-volume activity.  
 - Delivered an MVP of a block-trading workflow in 3 months, informing strategic decisions and driving a 20% increase in trading volumes within the targeted segment.  
 - Defined long-term strategy for expansion into new trading segments, aligning business priorities with technical delivery to ensure sustainable growth.  
@@ -30,14 +30,14 @@ A strategic and data-driven Product Owner with extensive experience leading high
 - Translated complex business and trading workflow challenges into actionable requirements, enabling high-impact technical solutions.  
 - Conducted stakeholder presentations and reviews at weekly, quarterly, and annual intervals, providing comprehensive insights into product performance and future strategy.
 
-### <span class="cv-job-title">Product Owner</span> | MarketAxess | London <span class="cv-job-date">Jan 2022 – Dec 2023</span>
-- Facilitated backlog refinement sessions with the technical team to estimate effort needed for feature delivery.  
+### <span class="cv-job-title">Product Owner</span> <span class="cv-job-location">| MarketAxess | London</span> <span class="cv-job-date">Jan 2022 – Dec 2023</span>
+- Facilitated refinement sessions with the technical team to estimate effort needed for feature delivery.  
 - Prioritized and defined the feature backlog in JIRA for efficient development reference.  
 - Served as subject matter expert for product area, addressing technical and product-related inquiries.  
 - Developed automated email reports on user activity and traded volumes using Python.  
 - Utilized SQL queries to troubleshoot production issues efficiently, aiding in bug root cause identification for the development team.  
 
-### <span class="cv-job-title">Product Analyst</span> | MarketAxess | London <span class="cv-job-date">Sep 2020 – Dec 2021</span>
+### <span class="cv-job-title">Product Analyst</span> <span class="cv-job-location">| MarketAxess | London</span> <span class="cv-job-date">Sep 2020 – Dec 2021</span>
 - Contributed to European Fixed Income & Regulatory scrum teams by refining user stories and bugs.  
 - Managed features in the product backlog from ideation to delivery.  
 - Represented the team on feature progress and demos to stakeholders.  
