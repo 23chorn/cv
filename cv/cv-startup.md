@@ -73,6 +73,6 @@ Product leader with strong technical fluency, experienced in rapidly building, i
 - Developed a React (Vite) frontend with Tailwind CSS and a Node.js backend, with database integration for persistent user data.  
 - Deployed to Vercel (frontend) and Render (backend), gaining hands-on experience with cloud-based CI/CD and production workflows.  
 - Scoped and shipped an MVP quickly, iterating on features and UI design based on real-world usability.  
-- Demonstrated ability to move from concept → prototype → live deployment independently, simulating the speed and ownership required in a startup environment.
+- Demonstrated ability to move from concept → prototype → live deployment independently, simulating the speed and ownership required in a startup environment. ([repo](https://github.com/23chorn/my-music-stats))
 
 ---
