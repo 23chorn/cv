@@ -1,10 +1,70 @@
-@use "minima" as *;
+---
+---
 
-/* assets/css/main.scss */
+/* Prevent section breaks across pages in print/PDF */
+@media print {
+  h2, h3, .cv-section, .cv-job-title {
+    page-break-after: avoid;
+    page-break-inside: avoid;
+  }
+  .cv-contact-row, .cv-contact {
+    page-break-inside: avoid;
+  }
+  .cv-project, .cv-education, .cv-skills {
+    page-break-inside: avoid;
+  }
+  body {
+    width: 210mm;
+    margin: 0;
+    font-size: 12pt;
+  }
+  .main-content {
+    max-width: 100%;
+    padding: 0;
+  }
+}
+
+/* CV Name Heading */
+.cv-name {
+  font-size: 2.2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.2rem;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* CV Contact Section */
+.cv-contact {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  font-size: 0.95rem;
+  margin-bottom: 0.5rem;
+}
+.cv-contact-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+  align-items: center;
+}
+.cv-link {
+  font-weight: bold;
+}
+
+/* Job Titles and Dates */
+.cv-job-title {
+  font-weight: bold;
+}
+.cv-job-date {
+  float: right;
+}
 
 /* Base body styling */
 body {
-  font-size: 4rem;
+  font-size: 0.95rem;
+  font-family: Garamond, Georgia, Times, "Times New Roman", serif;
 }
 
 /* Hide page heading and Minima header/footer */
@@ -16,14 +76,14 @@ body {
 
 /* Center main content and set A4 width */
 .main-content {
-  max-width: 210mm; /* A4 width */
-  margin: 0 auto;
+  max-width: 768px; /* A4 width */
+  margin: 2rem auto;
   padding: 1rem; /* adjust margins for print */
 }
 
 /* Headings */
 h1, h2, h3 {
-  color: #2c3e50;
+  color: #000000;
   font-weight: bold;
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
@@ -39,22 +99,34 @@ a:hover {
   text-decoration: underline;
 }
 
+@media (max-width: 600px) {
+  body {
+    font-size: 1.1rem;
+    padding: 0.5rem;
+  }
+  .main-content {
+    padding: 0.5rem;
+  }
+  .cv-name {
+    font-size: 1.4rem;
+    margin-top: 1rem;
+    padding: 0 0.5rem;
+  }
+  .cv-contact-row {
+    flex-direction: column;
+    gap: 0.5rem;
+    font-size: 1rem;
+    padding: 0 0.5rem;
+  }
+  h2, h3 {
+    font-size: 1.1rem;
+    padding: 0 0.5rem;
+  }
+}
+
 /* Sections */
 hr {
   border: none;
   border-top: 2px solid #eee;
   margin: 2rem 0;
-}
-
-/* Print-specific styles */
-@media print {
-  body {
-    width: 210mm;
-    margin: 0;
-    font-size: 12pt;
-  }
-  .main-content {
-    max-width: 100%;
-    padding: 0;
-  }
 }
