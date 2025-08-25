@@ -3,26 +3,23 @@ layout: default
 title: Chris Horn CV
 ---
 
-
 <h1 class="cv-name">Christopher David Horn</h1>
 <div class="cv-contact">
-	<div class="cv-contact-row">
-		<div><strong>Location:</strong> London, United Kingdom (Willing to relocate to Dubai)</div>
-		<div><strong>Email:</strong> 23chrish@gmail.com</div>
-		<div><strong>Phone:</strong> +44 7795147804</div>
-		<div><a href="https://github.com/23chorn/" class="cv-link"><strong>GitHub</strong></a></div>
-		<div><a href="https://www.linkedin.com/in/christopher-horn-19a795151/" class="cv-link"><strong>LinkedIn</strong></a></div>
-	</div>
+  <div class="cv-contact-row">
+    <div><strong>Location:</strong> London, United Kingdom (Willing to relocate to Dubai)</div>
+    <div><strong>Email:</strong> 23chrish@gmail.com</div>
+    <div><strong>Phone:</strong> +44 7795147804</div>
+    <div><a href="https://github.com/23chorn/" class="cv-link"><strong>GitHub</strong></a></div>
+    <div><a href="https://www.linkedin.com/in/christopher-horn-19a795151/" class="cv-link"><strong>LinkedIn</strong></a></div>
+  </div>
 </div>
-
----
 
 ## Profile
 A hands-on and data-oriented product leader with a proven track record in building high-performance trading platforms from ideation to scaled adoption. Currently overseeing a $4B daily-volume fixed income trading system, with hands-on experience leading agile teams of 15+ engineers, analysts, and QA. Technically fluent in Python, SQL, and product analytics. Skilled in delivering institutional-grade UI/UX, managing internal tooling, and driving 0-to-1 product builds.
 
 ---
 
-## Experience
+## Employment History
 
 ### <span class="cv-job-title">Senior Product Owner</span> | MarketAxess | City of London <span class="cv-job-date">Jan 2024 – Current</span>
 - Led the end-to-end development of a high-touch electronic trading platform, transforming legacy phone-based workflows into a modern digital product used by 450+ high-volume traders (> $4B daily volume).  
@@ -59,8 +56,11 @@ A hands-on and data-oriented product leader with a proven track record in buildi
 - **Decentralized Finance**, Duke University (2025)  
 - **Blockchain, Crypto Assets and Decentralized Finance**, INSEAD (2025)
 
+---
 
 ## Skills
 - **Product Management:** Roadmaps, Feature Prioritization, Agile, Stakeholder Communication  
 - **Technical Skills:** React (with Vite), Tailwind CSS, Node.js, REST APIs (Spotify, OpenAI), Python, SQL, Git, JavaScript, basic blockchain development  
 - **Tools:** Vercel, Render, Jira, Figma, Notion, GitHub, Slack
+
+---
