@@ -10,3 +10,5 @@ All CVs are written in Markdown and can be viewed directly on GitHub or exported
 ## Notes
 - Each version is regularly updated to ensure consistency.  
 - PDFs can be generated from the markdown using tools like [Pandoc](https://pandoc.org/).
+
+bundle exec jekyll serve -- to start local build

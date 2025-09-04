@@ -6,16 +6,16 @@ title: Chris Horn CV
 <h1 class="cv-name">Christopher David Horn</h1>
 <div class="cv-contact">
   <div class="cv-contact-row">
-  <div><strong>Location:</strong> London, UK (Relocating to UAE)</div>
+  <div><strong>Location:</strong> London, UK</div>
   <div><strong>Email:</strong> 23chrish@gmail.com</div>
-  <div><strong>Phone:</strong> +44 7795147804 / +971 50 232 5596</div>
+  <div><strong>Phone:</strong> +44 7795147804</div>
   <div><a href="https://github.com/23chorn/" class="cv-link"><strong>GitHub</strong></a></div>
   <div><a href="https://www.linkedin.com/in/christopher-horn-19a795151/" class="cv-link"><strong>LinkedIn</strong></a></div>
   </div>
 </div>
 
 <h2 class="cv-section-header">Profile</h2>
-Engineering-minded product leader with hands-on technical skills in Python, SQL, React, and analytics tooling. Proven record of scaling complex systems from 0-to-1 through adoption while also building automation, bots, and dashboards that empower teams. Comfortable prototyping alongside engineers, debugging in code, and translating business needs into usable tech. Exploring AI-assisted tooling such as Replit for rapid prototyping, with an eye toward fast experimentation in startup environments.
+Technical product leader with hands-on experience in Python, SQL, React, and cloud tooling. Experienced in prototyping full-stack projects and building automation, dashboards, and APIs in personal projects. Skilled at collaborating closely with engineers on technical feasibility and translating complex business problems into usable solutions. Passionate about developer workflows, data infrastructure, and building tools that accelerate experimentation and adoption.
 
 ---
 
@@ -26,8 +26,8 @@ Engineering-minded product leader with hands-on technical skills in Python, SQL,
 - Delivered MVP of a block-trading workflow within 3 months, enabling rapid iteration and driving a 20% increase in trading volumes in the targeted market segment.  
 - Scaled the platform from MVP to full adoption, integrating multiple pricing protocols to support diverse liquidity needs and expand overall volumes.  
 - Designed dashboards in Tableau, Datadog, and Grafana to monitor user activity and application performance, providing actionable insights for roadmap prioritization.  
-- Filled technical gaps by building Python automation scripts and creating end-to-end user test cases, improving QA coverage and accelerating testing cycles by 10%.  
-- Partnered with engineers during design sessions to validate technical approaches, balancing performance trade-offs with product goals.  
+- Built Python scripts to automate testing and reporting, accelerating QA and supporting engineering teams.  
+- Partnered closely with engineers during prototyping, ensuring technical feasibility while meeting business goals.
 - Conducted live product demos with senior traders and stakeholders to capture feedback and guide iteration.  
 - Led a team of 15 Developers, QA professionals, and Product Owners, ensuring delivery of features aligned with user needs and business strategy.  
 
