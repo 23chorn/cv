@@ -8,7 +8,7 @@ title: Chris Horn
 ## Select a CV version:
 
 - [Startup CV](cv-startup)
-- [Product CV](cv-corp)
+- [Product CV](cv-product)s
 - [Tech CV](cv-tech-startup)
 - [Energy CV](cv-energy)
 
