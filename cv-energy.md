@@ -6,9 +6,9 @@ title: Chris Horn CV
 <h1 class="cv-name">Christopher David Horn</h1>
 <div class="cv-contact">
   <div class="cv-contact-row">
-  <div><strong>Location:</strong> London, UK (Relocating to UAE)</div>
+  <div><strong>Location:</strong> Dubai, UAE</div>
   <div><strong>Email:</strong> 23chrish@gmail.com</div>
-  <div><strong>Phone:</strong> +44 7795147804 / +971 50 232 5596</div>
+  <div><strong>Phone:</strong> +44 7795147804</div>
   <div><a href="https://github.com/23chorn/" class="cv-link"><strong>GitHub</strong></a></div>
   <div><a href="https://www.linkedin.com/in/christopher-horn-19a795151/" class="cv-link"><strong>LinkedIn</strong></a></div>
   </div>
@@ -23,12 +23,11 @@ Technical product leader with strong engineering foundation (Chemical Engineerin
 
 ### <span class="cv-job-title">Senior Product Owner</span> <span class="cv-job-location">| MarketAxess | London</span> <span class="cv-job-date">Jan 2024 – Current</span>
 - Led the modernization of a legacy fixed income trading platform using React, AWS, MongoDB, and Kafka, transforming workflows into a scalable digital product now used by 450+ traders (> $4B daily volume)
-- Modeled complex financial systems and trading workflows, optimizing capacity allocation across multiple liquidity providers and market segments
-- Built Python scripts for automated testing, data analysis, and performance monitoring across distributed systems
+- Mapped complex trading workflows and integrated 4 pricing protocols, optimizing order execution logic across multiple liquidity providers to scale the platform from MVP to full adoption with 40% volume increase
+- Built Python scripts and SQL queries for automated testing, data analysis, and performance monitoring across distributed systems
 - Collaborated directly with engineering teams on technical feasibility, system architecture, and cloud infrastructure integration
 - Delivered MVP of a block-trading workflow within 3 months through rapid prototyping and iteration, driving 20% volume increase in targeted segments
-- Designed and implemented pricing protocols and business logic for diverse market segments, scaling platform from MVP to full adoption
-- Created comprehensive monitoring systems using Tableau, Datadog, and Grafana for real-time application performance and user analytics
+- Created comprehensive monitoring systems using SQL, Tableau, Datadog, and Grafana for real-time application performance and user analytics
 - Led cross-functional team of 15 developers, QA professionals, and product owners, ensuring technical delivery aligned with business strategy
 
 ### <span class="cv-job-title">Product Owner</span> <span class="cv-job-location">| MarketAxess | London</span> <span class="cv-job-date">Jan 2022 – Dec 2023</span>
@@ -77,6 +76,6 @@ Technical product leader with strong engineering foundation (Chemical Engineerin
 - **Repository:** [github.com/23chorn/my-music-dashboard](https://github.com/23chorn/my-music-dashboard)
 
 ### Trading Platform Automation (MarketAxess)
-- Built Python automation scripts for testing, reporting, and data pipeline management across production systems
+- Built Python automation scripts for testing and reporting across production systems
 - Created SQL-based monitoring systems and real-time dashboards for system performance analysis
 - Implemented automated workflows that reduced manual testing time by 60% and improved system reliability
