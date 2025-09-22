@@ -10,5 +10,6 @@ title: Chris Horn
 - [Startup CV](cv-startup)
 - [Product CV](cv-corp)
 - [Tech CV](cv-tech-startup)
+- [Energy CV](cv-energy)
 
 ---
